@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419799685 source:/home/kormolla/Dropbox/argör/dönem-14-15-güz/bil-111/week_12/FiyatPerformans/main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+

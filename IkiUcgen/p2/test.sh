@@ -1,0 +1,10 @@
+./test < in/input1.txt > out/output1.txt
+./test < in/input2.txt > out/output2.txt
+./test < in/input3.txt > out/output3.txt
+./test < in/input4.txt > out/output4.txt
+./test < in/input5.txt > out/output5.txt
+./test < in/input6.txt > out/output6.txt
+./test < in/input7.txt > out/output7.txt
+./test < in/input8.txt > out/output8.txt
+./test < in/input9.txt > out/output9.txt
+./test < in/input10.txt > out/output10.txt

@@ -1,0 +1,9 @@
+Bilgileri giriniz:
+Marka: Model: Isletim sistemi: Ekran boyutu: Dahili bellek: Kamera cozunurlugu: Ekran cozunurlugu: Cep telefonunun bilgileri:
+Marka: Apple
+Model: 5s
+Isletim sistemi: iOS
+Ekran boyutu: 4.0
+Dahili bellek: 32
+Kamera cozunurlugu: 8.0
+Ekran cozunurlugu: 1136x640

@@ -1,0 +1,9 @@
+Bilgileri giriniz:
+Marka: Model: Isletim sistemi: Ekran boyutu: Dahili bellek: Kamera cozunurlugu: Ekran cozunurlugu: Cep telefonunun bilgileri:
+Marka: Vestel
+Model: Venus
+Isletim sistemi: Android
+Ekran boyutu: 5.0
+Dahili bellek: 8
+Kamera cozunurlugu: 8.0
+Ekran cozunurlugu: 960x540

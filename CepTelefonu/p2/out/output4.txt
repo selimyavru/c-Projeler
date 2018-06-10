@@ -1,0 +1,9 @@
+Bilgileri giriniz:
+Marka: Model: Isletim sistemi: Ekran boyutu: Dahili bellek: Kamera cozunurlugu: Ekran cozunurlugu: Cep telefonunun bilgileri:
+Marka: LG
+Model: G3
+Isletim sistemi: Android
+Ekran boyutu: 5.5
+Dahili bellek: 16
+Kamera cozunurlugu: 13.0
+Ekran cozunurlugu: 1440x2560

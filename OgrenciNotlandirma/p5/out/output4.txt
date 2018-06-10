@@ -1,0 +1,4 @@
+Ogrenciler:
+Ahmet Yildiz 89.80 BA
+Mehmet Yilmaz 70.60 BB
+Veli Yildirim 37.10 DD

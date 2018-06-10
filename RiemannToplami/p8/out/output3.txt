@@ -1,0 +1,6 @@
+Denklem katsayilarini giriniz:
+Girilen denklem: 
+y = 1.0x^3+5.0x^2+6.0x+9.0
+Aralik degerlerini ve bolum sayisini giriniz:
+Riemann toplami: 
+3511.2

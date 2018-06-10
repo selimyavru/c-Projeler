@@ -1,0 +1,6 @@
+Denklem katsayilarini giriniz:
+Girilen denklem: 
+y = 2.0x^3+3.0x^2+1.0x+0.0
+Aralik degerlerini ve bolum sayisini giriniz:
+Riemann toplami: 
+3832.5

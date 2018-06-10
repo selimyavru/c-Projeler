@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418811265 source:/home/kormolla/Dropbox/argör/dönem-14-15-güz/bil-111/week_10/KelimeSiralama/main.cpp
+	<iostream>
+	<cstring>
+
